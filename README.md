@@ -10,6 +10,8 @@ TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
 
 NOTE: BeeLogger just have official support for latin languages in this moment.
 
+BeeLooger, con el puedes crear troyanos que se dedican a pasarte todo lo que teclea la victima ya sea por correo electronico etc, pues la gran mayoria de los beelooger saben diferenciar entre contraseñas o paginas web etc, asi que te mandan un pequeño informe, no todo lo tecleado por el que tambien o tiene, evidentemente, si no no podria dar esos informes.
+
 ## HOW TO INSTALL:
 
 Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
